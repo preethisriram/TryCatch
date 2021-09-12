@@ -1,0 +1,14 @@
+C:\Users\v-psriram\source\repos\Sortinganarray\bin\Debug\netcoreapp3.1\Sortinganarray.exe
+C:\Users\v-psriram\source\repos\Sortinganarray\bin\Debug\netcoreapp3.1\Sortinganarray.deps.json
+C:\Users\v-psriram\source\repos\Sortinganarray\bin\Debug\netcoreapp3.1\Sortinganarray.runtimeconfig.json
+C:\Users\v-psriram\source\repos\Sortinganarray\bin\Debug\netcoreapp3.1\Sortinganarray.runtimeconfig.dev.json
+C:\Users\v-psriram\source\repos\Sortinganarray\bin\Debug\netcoreapp3.1\Sortinganarray.dll
+C:\Users\v-psriram\source\repos\Sortinganarray\bin\Debug\netcoreapp3.1\Sortinganarray.pdb
+C:\Users\v-psriram\source\repos\Sortinganarray\obj\Debug\netcoreapp3.1\Sortinganarray.csproj.AssemblyReference.cache
+C:\Users\v-psriram\source\repos\Sortinganarray\obj\Debug\netcoreapp3.1\Sortinganarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-psriram\source\repos\Sortinganarray\obj\Debug\netcoreapp3.1\Sortinganarray.AssemblyInfoInputs.cache
+C:\Users\v-psriram\source\repos\Sortinganarray\obj\Debug\netcoreapp3.1\Sortinganarray.AssemblyInfo.cs
+C:\Users\v-psriram\source\repos\Sortinganarray\obj\Debug\netcoreapp3.1\Sortinganarray.csproj.CoreCompileInputs.cache
+C:\Users\v-psriram\source\repos\Sortinganarray\obj\Debug\netcoreapp3.1\Sortinganarray.dll
+C:\Users\v-psriram\source\repos\Sortinganarray\obj\Debug\netcoreapp3.1\Sortinganarray.pdb
+C:\Users\v-psriram\source\repos\Sortinganarray\obj\Debug\netcoreapp3.1\Sortinganarray.genruntimeconfig.cache
